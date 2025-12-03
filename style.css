@@ -151,6 +151,6 @@ body {
 .warningColor {
   color: #932029;
 }
-#Categories{
+#Categories, #areas, #Ingredients{
   width: 95%;
 }
